@@ -313,7 +313,7 @@ params:
   # disrupted: "#cc4400"
   # down: "#e60000"
   # notice: "#24478f"
-  brand: "#0a0c0f"
+  brand: "#ff6600"
   ok: "#008000"
   disrupted: "#cc4400"
   down: "#e60000"
@@ -328,7 +328,7 @@ params:
   #
   # Default: `true`
   # BOOLEAN; `true`, `false`
-  alwaysKeepBrandColor: true
+  alwaysKeepBrandColor: false
 
   # Introduced in v4.0.1 for consistent
   # site title text color.
