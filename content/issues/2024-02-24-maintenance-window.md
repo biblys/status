@@ -1,9 +1,12 @@
 ---
-title: Maintenance Announcement 
-date: 2024-02-24 10:35:00 
-informational: true
-pin: true 
 section: issue
+title: Interruption de service planifiée
+date: 2023-08-14T19:00:00.000Z
+informational: true
+pin: true
+resolvedWhen: ""
+severity: down
 ---
+**Pour des raisons de maintenance technique, tous les sites Biblys seront indisponibles le lundi 14 août de 21h à minuit.**
 
-We will shut down our network at midnight UTC on Feb 24. This does not affect the current status.
+http://go.iwazaru.fr/nl3/9_ypEldMr0gvMoTV7VXzCA
