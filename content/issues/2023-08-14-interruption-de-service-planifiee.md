@@ -3,6 +3,7 @@ section: issue
 title: Interruption de service planifiée
 date: 2023-08-14T19:00:00.000Z
 pin: true
+resolved: true
 resolvedWhen: 2023-08-14T20:15:00.000Z
 severity: down
 ---
