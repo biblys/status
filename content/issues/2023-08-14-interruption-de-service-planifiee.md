@@ -12,7 +12,7 @@ severity: down
 
 - [x] Étape 1 : Désactivation des sites
 - [x] Étape 2 : Sauvegarde de la base de données
-- [ ] Étape 3 : Export de la base de données depuis l'ancien serveur
+- [x] Étape 3 : Export de la base de données depuis l'ancien serveur
 - [ ] Étape 4 : Import de la base de données vers le nouveau serveur
 - [ ] Étape 5 : Branchement des sites sur le nouveau serveur
 - [ ] Étape 6 : Rétablissement des sites
