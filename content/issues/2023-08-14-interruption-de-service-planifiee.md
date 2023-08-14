@@ -14,8 +14,8 @@ severity: down
 - [x] Étape 2 : Sauvegarde de la base de données
 - [x] Étape 3 : Export de la base de données depuis l'ancien serveur
 - [x] Étape 4 : Import de la base de données vers le nouveau serveur
-- [ ] Étape 5 : Branchement des sites sur le nouveau serveur
-- [ ] Étape 6 : Rétablissement des sites
+- [x] Étape 5 : Branchement des sites sur le nouveau serveur
+- [ ] Étape 6 : Rétablissement progressif des sites
 
 Pour en savoir plus : 
 http://go.iwazaru.fr/nl3/9_ypEldMr0gvMoTV7VXzCA
