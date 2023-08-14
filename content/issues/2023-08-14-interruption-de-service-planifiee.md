@@ -2,7 +2,6 @@
 section: issue
 title: Interruption de service planifiée
 date: 2023-08-14T21:00:00.000Z
-informational: true
 pin: true
 resolvedWhen: ""
 severity: down
@@ -11,7 +10,7 @@ severity: down
 
 ## Étapes de la migration :
 
-- [ ] Étape 1 : Désactivation des sites
+- [x] Étape 1 : Désactivation des sites
 - [ ] Étape 2 : Sauvegarde de la base de données
 - [ ] Étape 3 : Export de la base de données depuis l'ancien serveur
 - [ ] Étape 4 : Import de la base de données vers le nouveau serveur
