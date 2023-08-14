@@ -11,7 +11,7 @@ severity: down
 ## Étapes de la migration :
 
 - [x] Étape 1 : Désactivation des sites
-- [ ] Étape 2 : Sauvegarde de la base de données
+- [x] Étape 2 : Sauvegarde de la base de données
 - [ ] Étape 3 : Export de la base de données depuis l'ancien serveur
 - [ ] Étape 4 : Import de la base de données vers le nouveau serveur
 - [ ] Étape 5 : Branchement des sites sur le nouveau serveur
