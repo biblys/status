@@ -143,6 +143,8 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
+    - name: Uncategorized
+      untitled: true
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -152,6 +154,12 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
+    - name: Sites Biblys
+      category: Uncategorized
+    - name: Axys
+      category: Uncategorized
+    - name: Biblys Cloud
+      category: Uncategorized
 
   # What date format to use?
   #
