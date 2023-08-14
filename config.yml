@@ -200,7 +200,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  skipSeconds: false
+  skipSeconds: true
 
   # Should there be an automatic "Last updated"
   # text shown below issues?
