@@ -6,6 +6,9 @@ pin: true
 resolved: true
 resolvedWhen: 2023-08-14T20:15:00.000Z
 severity: down
+affected:
+  - Sites Biblys
+  - Axys
 ---
 
 Tous les sites Biblys ont été indisponibles le lundi 14 août 2023 entre 21h00 et 22h15 pour des raisons de maintenance technique.
