@@ -7,16 +7,10 @@ resolved: true
 resolvedWhen: 2023-08-14T20:15:00.000Z
 severity: down
 ---
-**Pour des raisons de maintenance technique, tous les sites Biblys seront indisponibles le lundi 14 août 2023 de 21h à minuit.**
 
-## Étapes de la migration :
+Tous les sites Biblys ont été indisponibles le lundi 14 août 2023 entre 21h00 et 22h15 pour des raisons de maintenance technique.
 
-- [x] Étape 1 : Désactivation des sites
-- [x] Étape 2 : Sauvegarde de la base de données
-- [x] Étape 3 : Export de la base de données depuis l'ancien serveur
-- [x] Étape 4 : Import de la base de données vers le nouveau serveur
-- [x] Étape 5 : Branchement des sites sur le nouveau serveur
-- [x] Étape 6 : Rétablissement progressif des sites
+Cette interruption de service était nécessaire pour permettre un changement de serveur de base de données.
 
 Pour en savoir plus : 
 http://go.iwazaru.fr/nl3/9_ypEldMr0gvMoTV7VXzCA
