@@ -3,7 +3,7 @@ section: issue
 title: Incident affectant Axys
 date: 2024-01-18T10:00:00.000Z
 pin: false
-resolved: false
+resolved: true
 resolvedWhen: 2024-01-18T15:30:00.000Z
 severity: down
 affected:
